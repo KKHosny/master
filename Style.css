@@ -82,3 +82,27 @@ float: left;
       .submit{text-align: center;}
       td{ border:pink 2pt ridge;}
      
+form{
+    padding-right: 10;
+    padding-left: 1;
+}
+ 
+.lih {
+  font-style: italic;
+}
+.box{
+	background-color:lightblue;
+	border: 15px solid black;
+ 	padding-bottom: 10;
+	border-bottom-color:blue;
+	border-left-color:blue;
+	border-right-color:darkblue;
+	border-top-color:darkblue;
+	
+}
+th, td {
+	background-color:lightblue;
+	border: 2px solid black;
+ 	padding-bottom: 10;
+
+}
