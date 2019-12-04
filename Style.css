@@ -75,3 +75,22 @@ float: left;
         width: 80%;
         height: 100px;
       }
+
+form{
+    padding-right: 10;
+    padding-left: 1;
+}
+ 
+.lih {
+  font-style: italic;
+}
+table{
+	background-color:lightblue;
+	border: 15px solid black;
+ 	padding-bottom: 10;
+	border-bottom-color:blue;
+	border-left-color:blue;
+	border-right-color:darkblue;
+	border-top-color:darkblue;
+	
+}
