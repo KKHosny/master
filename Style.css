@@ -75,3 +75,9 @@ float: left;
         width: 80%;
         height: 100px;
       }
+      .mohamed{margin: auto; border:pink 20pt ridge ;}
+      .gender{text-align: center;}
+      .interest{text-align: center; text-decoration: underline;}
+      .submit{text-align: center;}
+      td{ border:pink 2pt ridge;}
+     
