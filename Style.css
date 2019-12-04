@@ -4,7 +4,7 @@ background-color: brown;
 font-family: Georgia, 'Times New Roman', Times, serif;
 margin: 12.5%;
 border: brown 10pt groove;
-/* box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7) */
+box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7)
 }
 .main .base {
 width: inherit;
@@ -75,6 +75,7 @@ float: left;
         width: 80%;
         height: 100px;
       }
+
       .mohamed{margin: auto; border:pink 20pt ridge ;}
       .gender{text-align: center;}
       .interest{text-align: center; text-decoration: underline;}
