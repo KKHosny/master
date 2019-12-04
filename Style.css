@@ -4,7 +4,7 @@ background-color: brown;
 font-family: Georgia, 'Times New Roman', Times, serif;
 margin: 12.5%;
 border: brown 10pt groove;
-/* box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7) */
+box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7)
 }
 .main .base {
 width: inherit;
@@ -76,21 +76,9 @@ float: left;
         height: 100px;
       }
 
-form{
-    padding-right: 10;
-    padding-left: 1;
-}
- 
-.lih {
-  font-style: italic;
-}
-table{
-	background-color:lightblue;
-	border: 15px solid black;
- 	padding-bottom: 10;
-	border-bottom-color:blue;
-	border-left-color:blue;
-	border-right-color:darkblue;
-	border-top-color:darkblue;
-	
-}
+      .mohamed{margin: auto; border:pink 20pt ridge ;}
+      .gender{text-align: center;}
+      .interest{text-align: center; text-decoration: underline;}
+      .submit{text-align: center;}
+      td{ border:pink 2pt ridge;}
+     
